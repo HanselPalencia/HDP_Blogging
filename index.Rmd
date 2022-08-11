@@ -1,0 +1,5 @@
+---
+title: "A Cool Name"
+site: distill::distill_website
+listing: posts
+---
